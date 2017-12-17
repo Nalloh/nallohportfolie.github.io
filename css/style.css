@@ -581,23 +581,17 @@ display: none;
 @media(min-width:1024px){ 
       /*om mig boksen på forsiden*/ 
 #billedeafmig{
-   width:80%;
-   height: 40%;
-   margin-top: 40px;
-   margin-left: 45px;
+
     display: none;
     
     
 }
 
 #ommigtekst{
-  font: normal 18px 'Montserrat', sans-serif; 
-color: white;
- margin: 10px;
- margin-bottom: 40px;
- margin-top: 20px;
+
 display: none;
 }  
       .flex-container{
         display:none;
-    } }
+    } 
+}
