@@ -560,4 +560,37 @@ display: none;
 
 /* desktop*/
 
-@media(min-width:1024px){ }
+@media(min-width:1024px){
+/*om mig boksen på forsiden*/ 
+#billedeafmig{
+   width:80%;
+   height: 40%;
+   margin-top: 40px;
+   margin-left: 45px;
+    
+    
+}
+
+#ommigtekst{
+  font: normal 18px 'Montserrat', sans-serif; 
+color: white;
+ margin: 10px;
+ margin-bottom: 40px;
+ margin-top: 20px;
+}
+
+
+/*flexbox forside*/
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #1A2359;
+  margin-top: 50px;
+  padding-bottom: 140px;
+  width:300px;
+}
+
+
+
+
+}
